@@ -1,12 +1,5 @@
 ## Hi there 👋
+ما از 12 مردادماه 1399، برای «زیستن بر مدار آگاهی و تلاش جمعی» دور هم جمع شدیم تا با پایبندی به «آزادی و مسئولیت‌پذیری» مسیر پیشرفت را درکنار هم، برای هم و با هم طی کنیم.
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Since August 02, 2020, we have come together to "live with awareness and collective effort" to walk for each other on the path of progress, embracing "freedom and responsibility".
